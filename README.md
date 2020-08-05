@@ -2,7 +2,9 @@
 
 ## アプリ URL
 
-(まだ)
+https://dazzling-swirles-8413ba.netlify.app/
+
+(※まだ)
 
 ## 使用ホスティングサービス
 
